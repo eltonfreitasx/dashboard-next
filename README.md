@@ -1,10 +1,8 @@
 # Tailwind-next
 
-### 💻 It is a project that simulates a social network where you can post, delete, and like comments.
+### 💻 Um projeto de dashboard usando o Tailwind CSS, Usando Pattern de composição. Também com o tema light e dark, basta apenas mudar a cor de tema do seu navegador.
 
 ### Preview
-
-## Page with feeds
 
 ![nexttailwind](https://github.com/eltonfreitasx/tailwind-next/assets/76684471/9a53acc0-afc7-4df0-866f-b752d2024ff9)
 ![nexttailwind1](https://github.com/eltonfreitasx/tailwind-next/assets/76684471/64a18681-cd6e-4693-932e-05b606c3321c)
