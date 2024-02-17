@@ -1,4 +1,4 @@
-# Tailwind-next
+# Dashboard-next
 
 ### 💻 Um projeto de dashboard usando o Tailwind CSS, Usando Pattern de composição. Também com o tema light e dark, basta apenas mudar a cor de tema do seu navegador.
 
